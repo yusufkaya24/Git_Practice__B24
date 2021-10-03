@@ -8,4 +8,7 @@ public class Second {
     public void m(int a){
 
     }
+    public void m(String s){
+
+    }
 }
